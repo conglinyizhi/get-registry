@@ -39,4 +39,4 @@ namespace get {
   }
 }
 
-export = get
+export default get;
