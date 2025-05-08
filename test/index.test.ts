@@ -1,4 +1,4 @@
-import get from "./index.js";
+import get from "../src/index.js";
 import { describe, it, expect } from "vitest";
 
 describe("get", () => {
